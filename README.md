@@ -1,0 +1,2 @@
+# kontolSEMUA
+script
